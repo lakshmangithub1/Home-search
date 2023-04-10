@@ -1,0 +1,33 @@
+.nav-container {
+    padding: 30px; 
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between; 
+
+} 
+
+.links-order {
+    display: flex;
+    flex-direction: row;
+    margin-right: 120px;
+    
+    
+}
+
+
+
+.logo-img {
+    height: 50px; 
+    width: 80px;
+    margin-left: 120px;
+} 
+
+li {
+    list-style-type: none;
+    color: black;
+}
+
+.nav-link {
+    margin-right: 70px; 
+    text-decoration: none;
+}
